@@ -3,4 +3,4 @@ project(SubtleFatherlyWebmaster)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(SubtleFatherlyWebmaster main.cpp Driver.hpp Order.hpp Restaurant.hpp Time.hpp)
+add_executable(DominatosPizzaTracker main.cpp Driver.hpp Order.hpp Restaurant.hpp Time.hpp)
